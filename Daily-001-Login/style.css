@@ -1,0 +1,35 @@
+form {
+  background-color: #ffffff;
+  max-width: 420px;
+  width: 100%;
+}
+
+.custom-input-group > .form-control:focus {
+  box-shadow: none !important;
+  border-color: #ced4da !important;
+  z-index: 1 !important;
+}
+
+.custom-input-group .input-group-text {
+  border-right: 0 !important;
+}
+
+.custom-input-group .form-control {
+  border-left: 0 !important;
+}
+
+.custom-input-group:focus-within {
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25) !important;
+  border-radius: 0.5rem;
+}
+
+.custom-input-group:focus-within .input-group-text,
+.custom-input-group:focus-within .form-control {
+  border-color: #86b7fe !important;
+}
+
+.custom-input-group .input-group-text,
+.custom-input-group .form-control {
+  border-width: 2px !important;
+  border-color: #ced4da;
+}
