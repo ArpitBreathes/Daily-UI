@@ -2,16 +2,21 @@
 
 Welcome to my **Daily UI Challenge** repository!
 
-This repository contains my solutions to the **100 Days of Daily UI Challenge**, where I recreate and design user interfaces to improve my frontend development and UI/UX design skills.
+This repository documents my journey through the **100 Days of Daily UI Challenge**, where I recreate modern user interface designs to improve my **Frontend Development** and **UI/UX Design** skills.
 
-## 🚀 Goal
+Rather than simply learning syntax, this challenge focuses on converting real UI designs into clean, responsive, and maintainable code.
 
-- Improve UI design skills
-- Master HTML, CSS, and JavaScript
-- Practice responsive layouts
-- Learn better spacing, typography, and color usage
-- Build consistency through daily practice
-- Create a strong frontend portfolio
+---
+
+## 🎯 Goals
+
+- Complete the 100 Days of Daily UI Challenge
+- Improve HTML, CSS, Bootstrap, and JavaScript skills
+- Learn to build interfaces from design references
+- Strengthen responsive design skills
+- Improve code organization and maintainability
+- Build a professional frontend portfolio
+- Deploy every challenge using GitHub Pages
 
 ---
 
@@ -19,32 +24,36 @@ This repository contains my solutions to the **100 Days of Daily UI Challenge**,
 
 - HTML5
 - CSS3
+- Bootstrap 5
 - JavaScript
-- Bootstrap (when applicable)
+- Font Awesome
+- Git & GitHub
+- GitHub Pages
 
 ---
 
-## 📅 Progress
+## 🚀 Live Demos
 
-| Day | Challenge | Status | Preview |
-|-----|-----------|--------|---------|
-| 001 | Login / Sign Up | ✅ Completed | [View](./Day-001-Login/) |
-| 002 | Coming Soon | ⏳ | - |
-| 003 | Coming Soon | ⏳ | - |
+| Day | Challenge          | Live Demo                                                               | Source Code                   | Status |
+| --- | ------------------ | ----------------------------------------------------------------------- | ----------------------------- | ------ |
+| 001 | Sign Up & Login UI | 🚀 [Live Demo](https://arpitbreathes.github.io/Daily-UI/Day-001-Login/) | 📁 [Source](./Day-001-Login/) | ✅     |
+
+More challenges coming soon...
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 Daily-UI/
 │
 ├── Day-001-Login/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
 │   ├── assets/
-│   └── screenshot.png
+│   ├── index.html
+│   ├── signup.html
+│   ├── style.css
+│   ├── screenshot.png
+│   └── README.md
 │
 ├── Day-002/
 ├── Day-003/
@@ -53,49 +62,47 @@ Daily-UI/
 
 ---
 
-## 💡 What I'm Learning
+## 🌱 Why I'm Doing This
 
-Throughout this challenge, I'm focusing on:
+After learning **HTML**, **CSS**, and **Bootstrap**, I wanted to challenge myself by building real-world interfaces instead of following tutorials.
 
-- Clean layouts
-- Responsive Design
-- Flexbox & CSS Grid
-- Forms
-- Buttons & Inputs
-- Cards
-- Dashboards
-- Mobile UI
-- Landing Pages
-- Animations
-- Accessibility
-- Modern CSS techniques
+Each challenge helps me improve:
 
----
+- HTML structure
+- Bootstrap layouts
+- CSS styling
+- Responsive design
+- UI implementation
+- Attention to detail
+- Frontend problem solving
 
-## 📈 Why I'm Doing This
-
-I'm currently improving my frontend development skills by recreating real-world UI designs.
-
-The goal is not just to make the interfaces look good, but also to write clean, maintainable, and responsive code while improving my design thinking.
+The goal is to become better with every project.
 
 ---
 
-## ⭐ Challenge Source
+## 📈 Progress
+
+- ✅ Day 001 Completed
+- ⏳ 99 Challenges Remaining
+
+---
+
+## 📚 Challenge Source
+
+Inspired by the **Daily UI Challenge**
 
 https://www.dailyui.co/
 
 ---
 
-## 🤝 Feedback
+## 👨‍💻 Author
 
-Feedback and suggestions are always welcome!
+**Arpit Pandey**
 
-If you have ideas for improving any design or code, feel free to open an issue or submit a pull request.
+- GitHub: https://github.com/ArpitBreathes
 
 ---
 
-## 📜 License
+⭐ If you like this repository, consider giving it a star!
 
-This repository is for educational and practice purposes.
-
-Original UI design prompts belong to **Daily UI**. The implementations in this repository are coded by me for learning and portfolio purposes.
+> _"Consistency beats perfection. Every project is one step forward."_
